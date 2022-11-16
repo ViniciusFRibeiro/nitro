@@ -8,7 +8,7 @@ The [Sequencer](../sequencer.md) is the entity granted specific privileges over 
 
 The _Validators_ are the ones responsible for the safety of the chain; i.e., making staked claims about the chain state, disputing each other, etc.
 
-Currently, on Arbitrum One, the Sequencer is a centralized entity maintained by Offchain Labs. Eventually, the single Sequencer will be replaced by a distributed committee of Sequencers who come to consensus on transaction ordering. This upgrade be an improvement; we don't want you to have to trust us not to reorder your transactions. However, it also isn't _strictly_ necessary for Arbitrum One to achieve its most fundamental properties.
+Currently, on Arbitrum One, the Sequencer is a centralized entity maintained by Offchain Labs. Eventually, the single Sequencer will be replaced by a distributed committee of Sequencers who come to consensus on transaction ordering. This upgrade will be an improvement; we don't want you to have to trust us not to reorder your transactions. However, it also isn't _strictly_ necessary for Arbitrum One to achieve its most fundamental properties.
 
 In other words:
 _**An Arbitrum Rollup chain with a centralized Sequencer could theoretically still be trustless!**_
