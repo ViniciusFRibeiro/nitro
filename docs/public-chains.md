@@ -20,9 +20,8 @@ For a list of useful contract addresses, see [here](useful-addresses).
 **Arbitrum One**: Arbitrum One is the flagship Arbitrum mainnet chain; it is an Optimistic Rollup chain running on top of Ethereum Mainnet, and is open to all users. In an upgrade on 8/31, the Arbitrum One chain is/was upgraded to use the [Nitro](https://medium.com/offchainlabs/its-nitro-time-86944693bf29) tech stack, maintaining the same state.
 Users can now use [Alchemy](https://alchemy.com/?a=arbitrum-docs), [Infura](https://infura.io/), [QuickNode](https://www.quicknode.com), [Moralis](https://moralis.io/), [Ankr](https://www.ankr.com/), [BlockVision](https://blockvision.org/), and [GetBlock](https://getblock.io/) to interact with the Arbitrum One. See [node providers](node-providers) for more.
 
-**Arbitrum Nova**: Arbitrum Nova is the first mainnet [AnyTrust](inside-anytrust) chain. The following are the members of the initial data availability committee (DAC):
+**Arbitrum Nova**: Arbitrum Nova is the first mainnet [AnyTrust](inside-anytrust) chain. The following are the members of the data availability committee (DAC):
 - Consensys
-- FTX
 - Google Cloud
 - Offchain Labs
 - P2P
